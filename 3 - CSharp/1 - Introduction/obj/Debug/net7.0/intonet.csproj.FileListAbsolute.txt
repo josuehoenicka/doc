@@ -1,0 +1,14 @@
+C:\Users\josue\Desktop\projects\intonet\bin\Debug\net7.0\intonet.exe
+C:\Users\josue\Desktop\projects\intonet\bin\Debug\net7.0\intonet.deps.json
+C:\Users\josue\Desktop\projects\intonet\bin\Debug\net7.0\intonet.runtimeconfig.json
+C:\Users\josue\Desktop\projects\intonet\bin\Debug\net7.0\intonet.dll
+C:\Users\josue\Desktop\projects\intonet\bin\Debug\net7.0\intonet.pdb
+C:\Users\josue\Desktop\projects\intonet\obj\Debug\net7.0\intonet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\Desktop\projects\intonet\obj\Debug\net7.0\intonet.AssemblyInfoInputs.cache
+C:\Users\josue\Desktop\projects\intonet\obj\Debug\net7.0\intonet.AssemblyInfo.cs
+C:\Users\josue\Desktop\projects\intonet\obj\Debug\net7.0\intonet.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\projects\intonet\obj\Debug\net7.0\intonet.dll
+C:\Users\josue\Desktop\projects\intonet\obj\Debug\net7.0\refint\intonet.dll
+C:\Users\josue\Desktop\projects\intonet\obj\Debug\net7.0\intonet.pdb
+C:\Users\josue\Desktop\projects\intonet\obj\Debug\net7.0\intonet.genruntimeconfig.cache
+C:\Users\josue\Desktop\projects\intonet\obj\Debug\net7.0\ref\intonet.dll
