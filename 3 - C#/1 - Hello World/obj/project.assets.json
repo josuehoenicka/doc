@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\josue\\Desktop\\projects\\doc\\3 - C#\\1 - Introduction\\intonet.csproj",
+      "projectUniqueName": "c:\\Users\\josue\\Desktop\\projects\\doc\\3 - C#\\1 - Hello World\\intonet.csproj",
       "projectName": "intonet",
-      "projectPath": "c:\\Users\\josue\\Desktop\\projects\\doc\\3 - C#\\1 - Introduction\\intonet.csproj",
+      "projectPath": "c:\\Users\\josue\\Desktop\\projects\\doc\\3 - C#\\1 - Hello World\\intonet.csproj",
       "packagesPath": "C:\\Users\\josue\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\josue\\Desktop\\projects\\doc\\3 - C#\\1 - Introduction\\obj\\",
+      "outputPath": "c:\\Users\\josue\\Desktop\\projects\\doc\\3 - C#\\1 - Hello World\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
