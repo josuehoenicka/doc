@@ -1,0 +1,14 @@
+C:\Users\josue\Desktop\projects\doc\3 - C#\2 - Basic Calculator\BasicCalculator\BasicCalculator\bin\Debug\net7.0\BasicCalculator.exe
+C:\Users\josue\Desktop\projects\doc\3 - C#\2 - Basic Calculator\BasicCalculator\BasicCalculator\bin\Debug\net7.0\BasicCalculator.deps.json
+C:\Users\josue\Desktop\projects\doc\3 - C#\2 - Basic Calculator\BasicCalculator\BasicCalculator\bin\Debug\net7.0\BasicCalculator.runtimeconfig.json
+C:\Users\josue\Desktop\projects\doc\3 - C#\2 - Basic Calculator\BasicCalculator\BasicCalculator\bin\Debug\net7.0\BasicCalculator.dll
+C:\Users\josue\Desktop\projects\doc\3 - C#\2 - Basic Calculator\BasicCalculator\BasicCalculator\bin\Debug\net7.0\BasicCalculator.pdb
+C:\Users\josue\Desktop\projects\doc\3 - C#\2 - Basic Calculator\BasicCalculator\BasicCalculator\obj\Debug\net7.0\BasicCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\Desktop\projects\doc\3 - C#\2 - Basic Calculator\BasicCalculator\BasicCalculator\obj\Debug\net7.0\BasicCalculator.AssemblyInfoInputs.cache
+C:\Users\josue\Desktop\projects\doc\3 - C#\2 - Basic Calculator\BasicCalculator\BasicCalculator\obj\Debug\net7.0\BasicCalculator.AssemblyInfo.cs
+C:\Users\josue\Desktop\projects\doc\3 - C#\2 - Basic Calculator\BasicCalculator\BasicCalculator\obj\Debug\net7.0\BasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\projects\doc\3 - C#\2 - Basic Calculator\BasicCalculator\BasicCalculator\obj\Debug\net7.0\BasicCalculator.dll
+C:\Users\josue\Desktop\projects\doc\3 - C#\2 - Basic Calculator\BasicCalculator\BasicCalculator\obj\Debug\net7.0\refint\BasicCalculator.dll
+C:\Users\josue\Desktop\projects\doc\3 - C#\2 - Basic Calculator\BasicCalculator\BasicCalculator\obj\Debug\net7.0\BasicCalculator.pdb
+C:\Users\josue\Desktop\projects\doc\3 - C#\2 - Basic Calculator\BasicCalculator\BasicCalculator\obj\Debug\net7.0\BasicCalculator.genruntimeconfig.cache
+C:\Users\josue\Desktop\projects\doc\3 - C#\2 - Basic Calculator\BasicCalculator\BasicCalculator\obj\Debug\net7.0\ref\BasicCalculator.dll
