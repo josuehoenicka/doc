@@ -1,6 +1,6 @@
 ﻿int number1;
 int number2;
-int result;
+float result = 0;
 string answer;
 
 Console.WriteLine("Welcome to my basic calculator !");
