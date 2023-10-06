@@ -1,0 +1,14 @@
+C:\Users\josue\Desktop\projects\doc\3 - C#\3 - Simple Dice\SimpleDice\SimpleDice\bin\Debug\net7.0\SimpleDice.exe
+C:\Users\josue\Desktop\projects\doc\3 - C#\3 - Simple Dice\SimpleDice\SimpleDice\bin\Debug\net7.0\SimpleDice.deps.json
+C:\Users\josue\Desktop\projects\doc\3 - C#\3 - Simple Dice\SimpleDice\SimpleDice\bin\Debug\net7.0\SimpleDice.runtimeconfig.json
+C:\Users\josue\Desktop\projects\doc\3 - C#\3 - Simple Dice\SimpleDice\SimpleDice\bin\Debug\net7.0\SimpleDice.dll
+C:\Users\josue\Desktop\projects\doc\3 - C#\3 - Simple Dice\SimpleDice\SimpleDice\bin\Debug\net7.0\SimpleDice.pdb
+C:\Users\josue\Desktop\projects\doc\3 - C#\3 - Simple Dice\SimpleDice\SimpleDice\obj\Debug\net7.0\SimpleDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\Desktop\projects\doc\3 - C#\3 - Simple Dice\SimpleDice\SimpleDice\obj\Debug\net7.0\SimpleDice.AssemblyInfoInputs.cache
+C:\Users\josue\Desktop\projects\doc\3 - C#\3 - Simple Dice\SimpleDice\SimpleDice\obj\Debug\net7.0\SimpleDice.AssemblyInfo.cs
+C:\Users\josue\Desktop\projects\doc\3 - C#\3 - Simple Dice\SimpleDice\SimpleDice\obj\Debug\net7.0\SimpleDice.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\projects\doc\3 - C#\3 - Simple Dice\SimpleDice\SimpleDice\obj\Debug\net7.0\SimpleDice.dll
+C:\Users\josue\Desktop\projects\doc\3 - C#\3 - Simple Dice\SimpleDice\SimpleDice\obj\Debug\net7.0\refint\SimpleDice.dll
+C:\Users\josue\Desktop\projects\doc\3 - C#\3 - Simple Dice\SimpleDice\SimpleDice\obj\Debug\net7.0\SimpleDice.pdb
+C:\Users\josue\Desktop\projects\doc\3 - C#\3 - Simple Dice\SimpleDice\SimpleDice\obj\Debug\net7.0\SimpleDice.genruntimeconfig.cache
+C:\Users\josue\Desktop\projects\doc\3 - C#\3 - Simple Dice\SimpleDice\SimpleDice\obj\Debug\net7.0\ref\SimpleDice.dll
