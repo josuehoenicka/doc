@@ -1,0 +1,14 @@
+C:\Users\josue\Desktop\projects\doc\3 - C#\5 - To Do List\ToDoList\ToDoList\bin\Debug\net7.0\ToDoList.exe
+C:\Users\josue\Desktop\projects\doc\3 - C#\5 - To Do List\ToDoList\ToDoList\bin\Debug\net7.0\ToDoList.deps.json
+C:\Users\josue\Desktop\projects\doc\3 - C#\5 - To Do List\ToDoList\ToDoList\bin\Debug\net7.0\ToDoList.runtimeconfig.json
+C:\Users\josue\Desktop\projects\doc\3 - C#\5 - To Do List\ToDoList\ToDoList\bin\Debug\net7.0\ToDoList.dll
+C:\Users\josue\Desktop\projects\doc\3 - C#\5 - To Do List\ToDoList\ToDoList\bin\Debug\net7.0\ToDoList.pdb
+C:\Users\josue\Desktop\projects\doc\3 - C#\5 - To Do List\ToDoList\ToDoList\obj\Debug\net7.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\Desktop\projects\doc\3 - C#\5 - To Do List\ToDoList\ToDoList\obj\Debug\net7.0\ToDoList.AssemblyInfoInputs.cache
+C:\Users\josue\Desktop\projects\doc\3 - C#\5 - To Do List\ToDoList\ToDoList\obj\Debug\net7.0\ToDoList.AssemblyInfo.cs
+C:\Users\josue\Desktop\projects\doc\3 - C#\5 - To Do List\ToDoList\ToDoList\obj\Debug\net7.0\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\projects\doc\3 - C#\5 - To Do List\ToDoList\ToDoList\obj\Debug\net7.0\ToDoList.dll
+C:\Users\josue\Desktop\projects\doc\3 - C#\5 - To Do List\ToDoList\ToDoList\obj\Debug\net7.0\refint\ToDoList.dll
+C:\Users\josue\Desktop\projects\doc\3 - C#\5 - To Do List\ToDoList\ToDoList\obj\Debug\net7.0\ToDoList.pdb
+C:\Users\josue\Desktop\projects\doc\3 - C#\5 - To Do List\ToDoList\ToDoList\obj\Debug\net7.0\ToDoList.genruntimeconfig.cache
+C:\Users\josue\Desktop\projects\doc\3 - C#\5 - To Do List\ToDoList\ToDoList\obj\Debug\net7.0\ref\ToDoList.dll
