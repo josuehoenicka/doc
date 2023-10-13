@@ -1,7 +1,15 @@
+using CreateDbFromScratch.Model;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+
+builder.Services.AddDbContext<SchoolContext>(options =>
+{
+    options.UseSqlServer("Server=JOSUEHOENICKA;Database=SchoolDB;Trusted_Connection=True;TrustServerCertificate=True;");
+});
 
 var app = builder.Build();
 
