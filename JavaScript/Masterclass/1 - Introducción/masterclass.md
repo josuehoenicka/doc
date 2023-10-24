@@ -1,1 +1,11 @@
 <h1>¿Qué es la programación?</h1>
+
+<p>"Si no existe una aplicación o lógica que pueda facilitarnos en realizar una tarea en específico, ahí es donde conocemos el concepto de <b>programación</b> como el arte de crear soluciones a problemas, guiado por una serie de instrucciones en un orden lógico que nosotros debemos especificar al ordenador"</p> <b><i>(Josue Hoenicka)</i></b>
+
+<h1>¿Cómo crear una solución en programación?</h1>
+
+<p>"La mayoría de la programación se realiza con lenguajes de programación. Un lenguja de programación es un lenguaje artificialmente construido que se  utiliza para instruir ordenadores... Los lenguajes de computación permiten que las palabras y frases sean combinadas de nuevas maneras, lo que nos permite expresar siempre nuevos conceptos... Uno de esos lenguajes, <b>JavaScript</b>, está integrado en cada navegador web moderno y, por lo tanto, está disponible en casi todos los dispositivos"</p> <b><i>(Eloquent JavaScript Third Edition - Marijn Haverbeke)</i></b>
+
+<h1>¿Cómo aprendo a programar?</h1>
+
+<p>"La programación demanda horas de estudio y práctica para alcanzar conocimientos altos pero también es muy importante tomarnos un tiempo de descanso. Existen muchas actividades en nuestro día a día que nos llegamos a desarrollar capacidad con el tiempo sin darnos cuenta, y sobre todo, <b>sin estrés o presión</b>, por ejemplo, de pequeño me pasaba que nunca me estrese en aprender de memoriar las acciones de los botones del control de la PlayStation para cada videojuego. Así mismo como me pasaba a mí de pequeño, todos nosotros realizamos actividades a diario que aprendemos y memorizamos rápidamente, porque lo realizamos cotidianamente y disfrutamos el proceso (Otros ejemplos: Memorizar canciones de nuestro cantante favorito, aprender a usar una app o red social, etc). De esta manera, debemos programar, ten por seguro que la persona o influencer que admiras como desarrolla su código, le tomo muchos tiempo aprender un lenguaje o tecnología, y paso por muchos dolores de cabeza, por lo cual si estás comenzando, mantén la calma; Y sí ya te encuentras programando por durante un tiempo, ya sabrás que se aprende y mejora cada día"</p> <b><i>(Josue Hoenicka)</i></b>
